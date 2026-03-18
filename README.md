@@ -4,6 +4,8 @@
 
 **100 points total + 6 points extra credit**
 
+# This is the homework file from CS149 which is meant to be finished under Linux OS, but I have modified everything for windows.
+
 ## Overview ##
 
 This assignment is intended to help you develop an understanding of the two primary forms of parallel execution present in a modern multi-core CPU:
