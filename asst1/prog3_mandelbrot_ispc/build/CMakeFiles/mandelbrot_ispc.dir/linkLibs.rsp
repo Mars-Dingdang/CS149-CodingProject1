@@ -1,0 +1,1 @@
+ -lpthread "C:/Users/23826/Downloads/ispc/ispc-v1.28.1-windows/lib/ispcrt.lib" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

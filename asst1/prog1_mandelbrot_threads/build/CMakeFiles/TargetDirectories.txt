@@ -1,0 +1,3 @@
+C:/Users/23826/Desktop/university/HPC/ParLearn/CodingProject1/asst1/prog1_mandelbrot_threads/build/CMakeFiles/mandelbrot.dir
+C:/Users/23826/Desktop/university/HPC/ParLearn/CodingProject1/asst1/prog1_mandelbrot_threads/build/CMakeFiles/edit_cache.dir
+C:/Users/23826/Desktop/university/HPC/ParLearn/CodingProject1/asst1/prog1_mandelbrot_threads/build/CMakeFiles/rebuild_cache.dir
